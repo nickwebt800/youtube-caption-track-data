@@ -1,0 +1,2 @@
+﻿video_id,video_length,what_was_copied,timestamps_on_chars,timestamps_off_chars,delta_chars,measured_on,client,note
+Ks-_Mh1QhMc,21:03,the whole transcript list in YouTube's own panel,22478,20100,2378,2026-09-17,desktop Chrome en/US signed out,"Which caption track the panel opened on was not fixed: on separate visits it served a speech-recognition track and a human-written one, so the two figures are from two visits of the same video. Recorded as-is rather than re-run to force one track."
